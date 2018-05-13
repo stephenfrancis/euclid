@@ -12,7 +12,7 @@
 * [Proposition 5: Base Interior and Exterior Angles of Isosceles Triangle are Equal](Prop5.md)
 * [Proposition 6: Two Angles of a Triangle Being Equal Means Their Opposite Sides are Equal](Prop6.md)
 * [Proposition 7: Conterminous Sides of Two Triangles Sharing the Same Base](Prop7.md)
-* [Proposition :](Prop.md)
+* [Proposition 8: Triangles with Equal Sides are Equal](Prop8.md)
 * [Proposition :](Prop.md)
 * [Proposition :](Prop.md)
 * [Proposition :](Prop.md)
