@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "description": "Euclid's The Elements",
   "scripts": {
-    "test": "nodeunit test/"
+    "test": "./node_modules/.bin/ts-node test/Line.ts && ./node_modules/.bin/ts-node test/Point.ts"
   },
   "repository": {
     "type": "git",
@@ -11,10 +11,9 @@
   },
   "author": "stephen.d.francis@gmail.com",
   "license": "Apache-2.0",
-  "dependencies": {
-    "nodeunit": "^0.11.3"
-  },
+  "dependencies": {},
   "devDependencies": {
-    "typescript": "^2.9.2"
+    "ts-node": "^10.1.0",
+    "typescript": "^4.3.5"
   }
 }
